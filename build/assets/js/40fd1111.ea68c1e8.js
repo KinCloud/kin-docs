@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkin_docs=self.webpackChunkkin_docs||[]).push([[3346],{3387:e=>{e.exports=JSON.parse('{"permalink":"/kin-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

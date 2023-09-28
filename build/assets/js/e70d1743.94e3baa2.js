@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkin_docs=self.webpackChunkkin_docs||[]).push([[2193],{3601:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/kin-docs/blog/tags/facebook","allTagsPath":"/kin-docs/blog/tags","count":1}')}}]);
