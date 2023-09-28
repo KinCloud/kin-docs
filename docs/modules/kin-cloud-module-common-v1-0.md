@@ -210,11 +210,11 @@ No authentication method required
 
   Description: Output object url
 
-### Convert currency (Fixer API)
+### Convert Currency (Fixer API)
 
 Source: __`kin.cloud/module/common/currency.(*FixerCurrency).ConvertCurrency`__
 
-Convert currency using Fixer API
+Convert Currency using Fixer API
 
 #### Authentication methods
 
@@ -403,7 +403,7 @@ No authentication method required
 
   Description: HTTP response body
 
-### Clear all data
+### Clear All Data
 
 Source: __`kin.cloud/module/common/kvstore.Clear`__
 
@@ -417,7 +417,7 @@ No authentication method required
 
 #### Outputs
 
-### Delete using key
+### Delete Using Key
 
 Source: __`kin.cloud/module/common/kvstore.Delete`__
 
