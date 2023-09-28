@@ -5,7 +5,6 @@ sidebar_position: 2
 # Project Roles
 
 Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
 Let's translate `docs/intro.md` to French.
 
 ## Configure i18n
