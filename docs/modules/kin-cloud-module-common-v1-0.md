@@ -12,7 +12,7 @@ This module include simple http request activity and credential extraction
 
 ## Connections
 
-### Common configuration
+### Shared Secret
 
 Method: __`common`__
 
@@ -68,7 +68,7 @@ No authentication method required
 
   Description: JQ result if out is empty, url to result if out is not empty
 
-### ApplyJqTranform
+### Apply Jq Tranform
 
 Source: __`kin.cloud/module/common/batch.ApplyJqTransform`__
 
@@ -110,7 +110,7 @@ No authentication method required
 
   Description: url to result
 
-### Csv2Json
+### Csv To Json
 
 Source: __`kin.cloud/module/common/batch.Csv2Json`__
 
@@ -160,7 +160,7 @@ No authentication method required
 
   Description: Output object url
 
-### Json2Csv
+### Json To Csv
 
 Source: __`kin.cloud/module/common/batch.Json2Csv`__
 
@@ -459,11 +459,11 @@ No authentication method required
 
   Description: Keys
 
-### Load persistent stored value in json format
+### Load persistent stored value in JSON format
 
 Source: __`kin.cloud/module/common/kvstore.LoadJson`__
 
-Load persistent store value in json format
+Load persistent store value in JSON format
 
 #### Authentication methods
 
@@ -493,11 +493,11 @@ No authentication method required
 
   Description: Last update time
 
-### Load persistent store value in msgpack format
+### Load persistent store value in MSGPACK format
 
 Source: __`kin.cloud/module/common/kvstore.LoadMsgPack`__
 
-Load persistent store value in msgpack format
+Load persistent store value in MSGPACK format
 
 #### Authentication methods
 
@@ -527,11 +527,11 @@ No authentication method required
 
   Description: Last update time
 
-### Persistent store value in json format
+### Persistent store value in JSON format
 
 Source: __`kin.cloud/module/common/kvstore.StoreJson`__
 
-Persistent store value in json format
+Persistent store value in JSON format
 
 #### Authentication methods
 
@@ -561,11 +561,11 @@ No authentication method required
 
   Description: Last update time
 
-### Persistent store value in msgpack format
+### Persistent store value in MSGPACK format
 
 Source: __`kin.cloud/module/common/kvstore.StoreMsgPack`__
 
-Persistent store value in msgpack format
+Persistent store value in MSGPACK format
 
 #### Authentication methods
 
